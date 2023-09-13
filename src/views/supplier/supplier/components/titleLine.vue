@@ -36,7 +36,6 @@
   .gh-p-title-line {
     display: flex;
     align-items: center;
-    font-size: 0;
     height: 36px;
     line-height: 36px;
     padding: 0 0 16px 0;
